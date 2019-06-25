@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="CAP10"/>
+	<classpathentry kind="src" path="exe6(18_03)"/>
+	<classpathentry kind="src" path="CAP11"/>
+	<classpathentry kind="src" path="exe7(21_03)"/>
+	<classpathentry kind="src" path="lez_22_03"/>
+	<classpathentry kind="src" path="Exe7(25_03)"/>
+	<classpathentry kind="src" path="CAP12"/>
+	<classpathentry kind="src" path="CAP_13"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/utente/Downloads/prog-4ed.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
